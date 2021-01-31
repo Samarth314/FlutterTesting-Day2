@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/samarth/Downloads/FlutterProjects/i_am_rich/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/samarth/Downloads/FlutterProjects/i_am_rich/FlutterTesting-Day2/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/samarth/Downloads/FlutterProjects/i_am_rich/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/samarth/Downloads/FlutterProjects/i_am_rich/FlutterTesting-Day2/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
